@@ -1,5 +1,5 @@
 javascript:(function () {
     var script = document.createElement('script');
-    script.src = 'https://raw.githubusercontent.com/qdirks/NeweggCardPriceScraper/master/cardPriceScraper.js';
+    script.src = 'http://localhost:3000/cardPriceScraper.js';
     document.body.appendChild(script);
 })();
